@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khash-Erdene</h1>
 <h3 align="center">Software developer from Mongolia</h3>
 
-- 📫 How to reach me **khasherdenelight@gmail.com**
+- 📫 How to reach me **khasherdenexash@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
